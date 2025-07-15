@@ -1,0 +1,12 @@
+notebook
+torch
+torchvision
+matplotlib
+numpy
+Pillow
+opencv-python
+transformers
+diffusers
+accelerate
+scipy
+tqdm
